@@ -1,6 +1,6 @@
 <?php
 
-namespace Mrzkit\Exceptions;
+namespace Mrzkit\SpreadsheetImport\Exceptions;
 
 class ConfigException extends SpreadsheetImportException
 {
