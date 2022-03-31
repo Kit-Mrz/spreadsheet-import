@@ -3,7 +3,7 @@
 namespace Mrzkit\SpreadsheetImport\TranslateResource;
 
 use Illuminate\Support\Collection;
-use Mrzkit\Exceptions\ImportException;
+use Mrzkit\SpreadsheetImport\Exceptions\ImportException;
 use Mrzkit\SpreadsheetImport\Contracts\TranslateContract;
 use Mrzkit\SpreadsheetImport\Translator;
 

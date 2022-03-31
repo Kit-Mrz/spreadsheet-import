@@ -2,7 +2,7 @@
 
 namespace Mrzkit\SpreadsheetImport;
 
-use Mrzkit\Exceptions\ImportException;
+use Mrzkit\SpreadsheetImport\Exceptions\ImportException;
 use Mrzkit\SpreadsheetImport\Contracts\InputContract;
 use Mrzkit\SpreadsheetImport\Contracts\ParameterContract;
 use Mrzkit\SpreadsheetImport\Contracts\TranslateContract;

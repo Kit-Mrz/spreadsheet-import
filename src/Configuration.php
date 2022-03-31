@@ -2,7 +2,7 @@
 
 namespace Mrzkit\SpreadsheetImport;
 
-use Mrzkit\Exceptions\ConfigException;
+use Mrzkit\SpreadsheetImport\Exceptions\ConfigException;
 use Mrzkit\SpreadsheetImport\Contracts\ConfigContract;
 use Illuminate\Support\Collection;
 

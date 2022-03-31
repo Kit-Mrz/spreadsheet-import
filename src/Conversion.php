@@ -2,7 +2,7 @@
 
 namespace Mrzkit\SpreadsheetImport;
 
-use Mrzkit\Exceptions\ConversionException;
+use Mrzkit\SpreadsheetImport\Exceptions\ConversionException;
 
 trait Conversion
 {
