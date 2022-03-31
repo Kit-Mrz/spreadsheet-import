@@ -2,7 +2,7 @@
 
 namespace Mrzkit\Exceptions;
 
-class ConversionException extends \Exception
+class ConversionException extends SpreadsheetImportException
 {
 
 }

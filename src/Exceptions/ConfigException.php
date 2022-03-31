@@ -2,7 +2,7 @@
 
 namespace Mrzkit\Exceptions;
 
-class ConfigException extends \Exception
+class ConfigException extends SpreadsheetImportException
 {
 
 }

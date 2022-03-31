@@ -2,7 +2,7 @@
 
 namespace Mrzkit\Exceptions;
 
-class ImportException extends \Exception
+class ImportException extends SpreadsheetImportException
 {
 
 }
