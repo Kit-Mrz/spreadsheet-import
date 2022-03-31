@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Supports\SpreadsheetImport;
+namespace Mrzkit\SpreadsheetImport;
 
-use App\Supports\SpreadsheetImport\Contracts\TemplateContract;
+use Mrzkit\SpreadsheetImport\Contracts\TemplateContract;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Style\Color;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
